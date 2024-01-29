@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_exercises"
+        android:title="Exercises"
+        android:icon="@drawable/exercise_icon"/>
+
+    <item
+        android:id="@+id/action_fitness_card"
+        android:title="Fitness Card"
+        android:icon="@drawable/fitness_icon"/>
+
+    <item
+        android:id="@+id/action_input"
+        android:title="Increase Muscle"
+        android:icon="@drawable/calc_icon"/>
+
+    <item
+        android:id="@+id/action_recipe"
+        android:title="Health Recipes"
+        android:icon="@drawable/recipes_icon"/>
+
+</menu>
